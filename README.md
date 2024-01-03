@@ -17,7 +17,7 @@ I'm a passionate software developer who recently graduated with a degree in Comp
 ### Currently Learning
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&logo=nestjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-092E20?style=for-the-badge&logo=spring&logoColor=white)
 
 ### Frameworks, Platforms and Libraries
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
